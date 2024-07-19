@@ -1,5 +1,7 @@
-d 'DEA': Data envelopment analysis
+d 'multe': Multiple Treatment Effects for Contamination Bias Diagnostics Use multe With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f lmulte.mlib
+f multe.ado
+f multe.mata
+f multe.sthlp
+f multe_helpers.mata
